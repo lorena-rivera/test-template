@@ -6,6 +6,6 @@ I am a UTSA student currently majoring in Cybersecurity and Business.
 </div>
 <p> </p>
 <div id="badges">
-  <a ="I'm excited to start my learning career in Cyber">
+  <a "I'm excited to start my learning career in Cyber">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </div>
